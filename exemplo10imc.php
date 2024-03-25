@@ -8,7 +8,7 @@ function calcular($num1,$num2,$num3){
 }
 $resp = calcular ($peso,$altura,$altura);
 
-echo "Olá $nome seu $peso sua $altura, seu imc $resp";
+echo "Olá $nome seu peso $peso sua altura $altura, seu imc $resp";
 
 
  ?>
